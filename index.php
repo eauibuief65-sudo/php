@@ -19,6 +19,7 @@ $currentYear = date("Y");
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $businessName; ?> | Authentic Recipes</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script id="_wau4k7">var _wau = _wau || []; _wau.push(["small", "qwoi614wck", "4k7"]);</script><script async src="//waust.at/s.js"></script>
     <script>
         tailwind.config = {
             theme: {
